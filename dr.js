@@ -1,6 +1,5 @@
 
-
-var img=["img/2.png", "img/3.png", "img/4.png","img/5.png","img/6.png"]
+var img=["img/3.png", "img/2.png", "img/5.png","img/6.png","img/4.png"]
 var imgTag = document.getElementById("dr");
 var count=0;
 
